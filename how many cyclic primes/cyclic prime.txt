@@ -1,0 +1,13 @@
+for N find prime numbers till N.  0 <= N
+A prime is cyclic prime if all rotations of it are also prime numbers.
+Rotations of 123 are 231 and 312
+
+These are some in the format, for a given N along with expected result.
+[N,result]
+
+[1, 0],
+[10,4],
+[100, 13],
+[1000, 25],
+[100000, 43],
+[1000000, 55],
