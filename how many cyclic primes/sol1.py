@@ -70,6 +70,8 @@ def test():
     [100, 13],
     [1000, 25],
     [100000, 43],
+    # following test case could take 118 seconds in the solution that is given first(which is what I coded at the time).
+    # using the second solution only takes 8 seconds.
     # [1000000, 55],
     ]
     for case,response in cases:
